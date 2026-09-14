@@ -7,6 +7,6 @@
 Actualmente soy estudiante de Tajamar Master de IA & Big Data
 
 __Tecnologías dominadas__
-<p></p>
+<p>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
+</p>
