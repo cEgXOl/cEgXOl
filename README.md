@@ -4,7 +4,7 @@
 
 ## Sobre mi
 
-Actualmente soy estudiante de Tajamar Master de IA & Big Data
+Graduado en Desarrollador de Aplicaciones Web. Actualmente soy estudiante de Tajamar Master de IA & Big Data
 
 __Tecnologías dominadas__
 <br>
